@@ -1624,10 +1624,10 @@ capture-exit@^2.0.0:
   dependencies:
     rsvp "^4.8.4"
 
-ccxt@^1.21.23:
-  version "1.21.23"
-  resolved "https://registry.yarnpkg.com/ccxt/-/ccxt-1.21.23.tgz#70c23fb6819782ee6688c106b40c0fc6c3cc1fdf"
-  integrity sha512-U68c2itGqrSdA8WRvsD7jWTASM1BcSJ28GKWZczhf2YzNKCCen3gFJNg7NsfkNZ5qf1yAv0AIAIbqHpslgO2Vw==
+ccxt@^1.21.24:
+  version "1.21.24"
+  resolved "https://registry.yarnpkg.com/ccxt/-/ccxt-1.21.24.tgz#206d7aa5ff2790f8bb81f4e70c137a955998f807"
+  integrity sha512-mu7elqldz/QxZTkY3EDYszVNnfeeWcNUYAtdxoWDhJN2lF7Nr+kr2UTSjGk4012uQLM+m3vy26Qa1CJE0CHjGQ==
 
 chalk@^2.0.0, chalk@^2.0.1, chalk@^2.4.1, chalk@^2.4.2:
   version "2.4.2"
