@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Minimal reproduction of ccxt issue on expo!</Text>
-      {/* <FlatList data={ccxt.exchanges} renderItem={e => <Text>{e}</Text>} /> */}
+      <FlatList data={ccxt.exchanges} renderItem={e => <Text>{e}</Text>} />
     </View>
   );
 }
